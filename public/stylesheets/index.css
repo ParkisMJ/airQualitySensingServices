@@ -1,4 +1,4 @@
-.mainoff {
+.home1exellenton {
   width               : 100%;
   min-width           : 375px;
   height              : 100vh;
@@ -14,189 +14,88 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.mainoff .backgroundlevel1 {
+.home1exellenton .backgroundlevel1 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : 667px;
   top                 : 0px;
+  width               : 375px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : 667px;
-  width               : 375px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .backgroundlevel1 .rectangle {
+.home1exellenton .backgroundlevel1 .rectangle {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : 667px;
   top                 : 0px;
+  width               : 375px;
+  left                : 0px;
   position            : relative;
   margin              : 0;
-  height              : 667px;
-  width               : 375px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .menu {
+.home1exellenton .underbar {
   background-color    : rgba(255,255,255,0.0);
-  left                : 20px;
-  top                 : 47px;
-  position            : absolute;
-  margin              : 0;
-  height              : 13px;
-  width               : 19px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .menu .path {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 11px;
-  position            : absolute;
-  margin              : 0;
-  height              : 2px;
-  width               : 19px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .menu .path1 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 5px;
-  position            : absolute;
-  margin              : 0;
-  height              : 2px;
-  width               : 19px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .menu .path2 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
-  height              : 2px;
-  width               : 19px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .placename {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 131px;
-  top                 : 43px;
-  position            : absolute;
-  margin              : 0;
-  height              : 28px;
-  width               : 114px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .placename .placename {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
-  height              : auto;
-  width               : 114px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 28.0px;
-}
-.mainoff .adddevicebutton {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 344px;
-  top                 : 44px;
-  position            : absolute;
-  margin              : 0;
-  height              : 14px;
-  width               : 14px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .adddevicebutton .shape {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 0px;
-  position            : relative;
-  margin              : 0;
-  height              : 14px;
-  width               : 14px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .ud558ub2e8ubc14 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : 183px;
   top                 : 484px;
+  width               : 375px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : 183px;
-  width               : 375px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .ud558ub2e8ubc14 .rectangle2 {
+.home1exellenton .underbar .rectangle2 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 5px;
-  position            : absolute;
-  margin              : 0;
   height              : 178px;
+  top                 : 5px;
   width               : 375px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.7;
 }
-.mainoff .ud558ub2e8ubc14 .path3 {
+.home1exellenton .underbar .path3 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
   height              : 183px;
+  top                 : 0px;
   width               : 375px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.7;
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy {
+.home1exellenton .reservationoffcopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 265px;
+  height              : 77px;
   top                 : 541px;
+  width               : 98px;
+  left                : 265px;
   position            : absolute;
   margin              : 0;
-  height              : 77px;
-  width               : 98px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .uc608uc57dubaa8ub4dc {
+.home1exellenton .reservationoffcopy .uc608uc57dubaa8ub4dccopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : auto;
   top                 : 63px;
+  width               : 98px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 98px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -207,135 +106,135 @@ div {
   letter-spacing      : -0.13px;
   line-height         : 15.0px;
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .rectangle {
+.home1exellenton .reservationoffcopy .rectangle9copy {
   background-color    : rgba(171, 171, 171, 1.0);
-  left                : 44px;
+  height              : 1px;
   top                 : 14px;
+  width               : 9px;
+  left                : 44px;
   position            : absolute;
   margin              : 0;
-  height              : 1px;
-  width               : 9px;
   border-radius       : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval11 {
+.home1exellenton .reservationoffcopy .oval11 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 37px;
+  height              : 23px;
   top                 : 17px;
+  width               : 23px;
+  left                : 37px;
   position            : absolute;
   margin              : 0;
-  height              : 23px;
-  width               : 23px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .rectangle1 {
+.home1exellenton .reservationoffcopy .rectangle9copy2 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 45px;
+  height              : 1px;
   top                 : 25px;
+  width               : 8px;
+  left                : 45px;
   position            : absolute;
   margin              : 0;
-  height              : 1px;
-  width               : 8px;
   -ms-transform       : rotate(90deg); /* IE 9 */
   -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
   transform           : rotate(90deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .rectangle2 {
+.home1exellenton .reservationoffcopy .rectangle9copy3 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 42px;
+  height              : 1px;
   top                 : 30px;
+  width               : 8px;
+  left                : 42px;
   position            : absolute;
   margin              : 0;
-  height              : 1px;
-  width               : 8px;
   -ms-transform       : rotate(220deg); /* IE 9 */
   -webkit-transform   : rotate(220deg); /* Chrome, Safari, Opera */
   transform           : rotate(220deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval8 {
+.home1exellenton .reservationoffcopy .oval11copy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 54px;
+  height              : 1px;
   top                 : 23px;
-  position            : absolute;
-  margin              : 0;
-  height              : 1px;
   width               : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval9 {
-  background-color    : rgba(255,255,255,0.0);
   left                : 54px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .reservationoffcopy .oval11copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 1px;
   top                 : 33px;
+  width               : 1px;
+  left                : 54px;
   position            : absolute;
   margin              : 0;
-  height              : 1px;
-  width               : 1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval10 {
+.home1exellenton .reservationoffcopy .oval11copy5 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 49px;
+  height              : 1px;
   top                 : 36px;
+  width               : 1px;
+  left                : 49px;
   position            : absolute;
   margin              : 0;
-  height              : 1px;
-  width               : 1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval111 {
+.home1exellenton .reservationoffcopy .oval11copy2 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 56px;
+  height              : 1px;
   top                 : 29px;
-  position            : absolute;
-  margin              : 0;
-  height              : 1px;
   width               : 1px;
+  left                : 56px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc608uc57dubaa8ub4dcoffcopy .oval12 {
+.home1exellenton .reservationoffcopy .oval12copy3 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 21px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
   height              : 56px;
+  top                 : 0px;
   width               : 56px;
+  left                : 21px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .ucde8uce68ubaa8ub4dcoffcopy {
+.home1exellenton .sleepoffcopy {
   background-color    : rgba(255,255,255,0.0);
+  height              : 77px;
+  top                 : 541px;
+  width               : 98px;
   left                : 181px;
-  top                 : 542px;
   position            : absolute;
   margin              : 0;
-  height              : 76px;
-  width               : 98px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .ucde8uce68ubaa8ub4dcoffcopy .ucde8uce68ubaa8ub4dc {
+.home1exellenton .sleepoffcopy .ucde8uce68ubaa8ub4dccopy {
   background-color    : rgba(255,255,255,0.0);
+  height              : auto;
+  top                 : 63px;
+  width               : 98px;
   left                : 0px;
-  top                 : 62px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 98px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -346,50 +245,50 @@ div {
   letter-spacing      : -0.13px;
   line-height         : 15.0px;
 }
-.mainoff .ucde8uce68ubaa8ub4dcoffcopy .oval10 {
+.home1exellenton .sleepoffcopy .oval10copy {
   background-color    : rgba(255,255,255,0.0);
+  height              : 28px;
+  top                 : 15px;
+  width               : 17px;
   left                : 40px;
-  top                 : 14px;
   position            : absolute;
   margin              : 0;
-  height              : 28px;
-  width               : 17px;
   -ms-transform       : rotate(-22deg); /* IE 9 */
   -webkit-transform   : rotate(-22deg); /* Chrome, Safari, Opera */
   transform           : rotate(-22deg);
 }
-.mainoff .ucde8uce68ubaa8ub4dcoffcopy .oval12 {
+.home1exellenton .sleepoffcopy .oval12copy2 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 21px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
   height              : 56px;
+  top                 : 0px;
   width               : 56px;
+  left                : 21px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy {
+.home1exellenton .lowpoweroffcopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 89px;
-  top                 : 541px;
-  position            : absolute;
-  margin              : 0;
   height              : 77px;
+  top                 : 541px;
   width               : 114px;
+  left                : 89px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy .uc800uc804ub825ubaa8ub4dc {
+.home1exellenton .lowpoweroffcopy .uc800uc804ub825ubaa8ub4dc {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : auto;
   top                 : 63px;
+  width               : 114px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 114px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -400,77 +299,77 @@ div {
   letter-spacing      : -0.13px;
   line-height         : 15.0px;
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy .rectangle5 {
+.home1exellenton .lowpoweroffcopy .combinedshapecopy3 {
   background-color    : rgba(171, 171, 171, 1.0);
-  left                : 50px;
+  height              : 24px;
   top                 : 17px;
+  width               : 15px;
+  left                : 50px;
   position            : absolute;
   margin              : 0;
-  height              : 24px;
-  width               : 15px;
   border-radius       : 3px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy .rectangle5copy {
+.home1exellenton .lowpoweroffcopy .rectangle5copy {
   background-color    : rgba(171, 171, 171, 1.0);
-  left                : 54px;
+  height              : 5px;
   top                 : 15px;
+  width               : 8px;
+  left                : 54px;
   position            : absolute;
   margin              : 0;
-  height              : 5px;
-  width               : 8px;
   border-radius       : 2px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy .rectangle9copy4 {
+.home1exellenton .lowpoweroffcopy .rectangle9copy4 {
   background-color    : rgba(255, 255, 255, 1.0);
-  left                : 52px;
+  height              : 3px;
   top                 : 35px;
+  width               : 11px;
+  left                : 52px;
   position            : absolute;
   margin              : 0;
-  height              : 3px;
-  width               : 11px;
   border-radius       : 1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc800uc804ub825ubaa8ub4dcoffcopy .oval12copy {
+.home1exellenton .lowpoweroffcopy .oval12copy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 29px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
   height              : 56px;
+  top                 : 0px;
   width               : 56px;
+  left                : 29px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy {
+.home1exellenton .useroncopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 13px;
-  top                 : 541px;
-  position            : absolute;
-  margin              : 0;
   height              : 77px;
+  top                 : 541px;
   width               : 98px;
+  left                : 13px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy .uc0acuc6a9uc790ubaa8ub4dc {
+.home1exellenton .useroncopy .uc0acuc6a9uc790ubaa8ub4dccopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : auto;
   top                 : 63px;
+  width               : 98px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 98px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -481,98 +380,86 @@ div {
   letter-spacing      : -0.13px;
   line-height         : 15.0px;
 }
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy .oval12 {
+.home1exellenton .useroncopy .oval12 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 21px;
-  top                 : 0px;
-  position            : absolute;
-  margin              : 0;
   height              : 56px;
-  width               : 56px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy .rectangle7 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 37px;
-  top                 : 28px;
-  position            : absolute;
-  margin              : 0;
-  height              : 13px;
-  width               : 23px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy .oval8 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 41px;
-  top                 : 17px;
-  position            : absolute;
-  margin              : 0;
-  height              : 15px;
-  width               : 14px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .uc0acuc6a9uc790ubaa8ub4dconcopy .oval9 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 41px;
-  top                 : 15px;
-  position            : absolute;
-  margin              : 0;
-  height              : 14px;
-  width               : 14px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .moreinformation {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 182px;
-  top                 : 639px;
-  position            : absolute;
-  margin              : 0;
-  height              : 9px;
-  width               : 12px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainoff .moreinformation .path2 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
   top                 : 0px;
+  width               : 56px;
+  left                : 21px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .useroncopy .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 12px;
+  top                 : 29px;
+  width               : 23px;
+  left                : 37px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .useroncopy .oval8copy {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 14px;
+  top                 : 15px;
+  width               : 14px;
+  left                : 41px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .moreinformation {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 8px;
+  top                 : 639px;
+  width               : 12px;
+  left                : 182px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .moreinformation .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 8px;
+  top                 : 0px;
+  width               : 12px;
+  left                : 0px;
   position            : relative;
   margin              : 0;
-  height              : 9px;
-  width               : 12px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .exellent {
+.home1exellenton .exellent {
   background-color    : rgba(255,255,255,0.0);
-  left                : 131px;
-  top                 : 370px;
-  position            : absolute;
-  margin              : 0;
   height              : 28px;
+  top                 : 370px;
   width               : 114px;
+  left                : 131px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .exellent .exellent {
+.home1exellenton .exellent .exellent {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : auto;
   top                 : 0px;
+  width               : 114px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 114px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -582,26 +469,26 @@ div {
   text-align          : center;
   line-height         : 28.0px;
 }
-.mainoff .exellenttip {
+.home1exellenton .exellenttip {
   background-color    : rgba(255,255,255,0.0);
-  left                : 85px;
+  height              : 28px;
   top                 : 404px;
+  width               : 206px;
+  left                : 85px;
   position            : absolute;
   margin              : 0;
-  height              : 28px;
-  width               : 206px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .exellenttip .ub0a0uc528uac00uc88buc73cub2c8uc0b0ucc45ud574ubcf4uc2dcub294uac74uc5b4ub5a0uc2e0 {
+.home1exellenton .exellenttip .ub0a0uc528uac00uc88buc73cub2c8uc0b0ucc45ud574ubcf4uc2dcub294uac74uc5b4ub5a0uc2e0 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : auto;
   top                 : 0px;
+  width               : 206px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 206px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -611,146 +498,146 @@ div {
   text-align          : center;
   line-height         : 28.0px;
 }
-.mainoff .oval7 {
+.home1exellenton .oval8 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 178px;
-  top                 : 137px;
+  height              : 33px;
+  top                 : 127px;
+  width               : 33px;
+  left                : 168px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval6 {
+.home1exellenton .oval7 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 178px;
-  top                 : 296px;
+  height              : 33px;
+  top                 : 286px;
+  width               : 33px;
+  left                : 168px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval5 {
+.home1exellenton .oval6 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 111px;
-  top                 : 166px;
+  height              : 33px;
+  top                 : 156px;
+  width               : 33px;
+  left                : 101px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval4 {
+.home1exellenton .oval5 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 111px;
-  top                 : 268px;
+  height              : 33px;
+  top                 : 258px;
+  width               : 33px;
+  left                : 101px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval3 {
+.home1exellenton .oval4 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 98px;
-  top                 : 217px;
+  height              : 33px;
+  top                 : 207px;
+  width               : 33px;
+  left                : 88px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval31 {
+.home1exellenton .oval3 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 264px;
-  top                 : 217px;
+  height              : 33px;
+  top                 : 207px;
+  width               : 33px;
+  left                : 254px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval2 {
+.home1exellenton .oval2 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 244px;
-  top                 : 166px;
+  height              : 33px;
+  top                 : 156px;
+  width               : 33px;
+  left                : 234px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .oval1 {
+.home1exellenton .oval1 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 244px;
-  top                 : 268px;
+  height              : 33px;
+  top                 : 258px;
+  width               : 33px;
+  left                : 234px;
   position            : absolute;
   margin              : 0;
-  height              : 13px;
-  width               : 13px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .mainpowericon1 {
+.home1exellenton .mainpowericon1 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 127px;
-  top                 : 166px;
-  position            : absolute;
-  margin              : 0;
   height              : 121px;
+  top                 : 166px;
   width               : 121px;
+  left                : 127px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .mainpowericon1 .oval {
+.home1exellenton .mainpowericon1 .oval {
   background-color    : rgba(255,255,255,0.0);
-  left                : 0px;
+  height              : 121px;
   top                 : 0px;
+  width               : 121px;
+  left                : 0px;
   position            : relative;
   margin              : 0;
-  height              : 121px;
-  width               : 121px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .pm10ub2e8uc704 {
+.home1exellenton .pm10 {
   background-color    : rgba(255,255,255,0.0);
-  left                : 131px;
-  top                 : 240px;
-  position            : absolute;
-  margin              : 0;
   height              : 14px;
+  top                 : 240px;
   width               : 114px;
+  left                : 131px;
+  position            : absolute;
+  margin              : 0;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .pm10ub2e8uc704 .pgu33a5 {
+.home1exellenton .pm10 .pgu33a5 {
   background-color    : rgba(255,255,255,0.0);
-  left                : -1px;
+  height              : auto;
   top                 : 0px;
+  width               : 116px;
+  left                : -1px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 116px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -760,34 +647,219 @@ div {
   text-align          : center;
   line-height         : 28.0px;
 }
-.mainoff .pm10uc218uce58 {
+.home1exellenton .statusbarcopy {
   background-color    : rgba(255,255,255,0.0);
-  left                : 131px;
-  top                 : 198px;
+  height              : 25px;
+  top                 : 0px;
+  width               : 375px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : 37px;
-  width               : 114px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainoff .pm10uc218uce58 .a10 {
-  background-color    : rgba(255,255,255,0.0);
-  left                : -1px;
-  top                 : 0px;
+.home1exellenton .statusbarcopy .statusbarbg {
+  background-color    : rgba(0, 0, 0, 1.0);
+  height              : 24px;
+  top                 : 1px;
+  width               : 375px;
+  left                : 0px;
   position            : absolute;
   margin              : 0;
-  height              : auto;
-  width               : 116px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
-  font-size           : 36.0px;
-  color               : rgba(74, 73, 74, 1.0);
+}
+.home1exellenton .statusbarcopy .a1230 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : auto;
+  top                 : 5px;
+  width               : auto;
+  left                : 327px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.home1exellenton .statusbarcopy .bounds {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 17px;
+  top                 : 4px;
+  width               : 16px;
+  left                : 310px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .statusbarcopy .shape {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 15px;
+  top                 : 5px;
+  width               : 9px;
+  left                : 313px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .statusbarcopy .bounds1 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 17px;
+  top                 : 4px;
+  width               : 16px;
+  left                : 290px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .statusbarcopy .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 15px;
+  top                 : 5px;
+  width               : 14px;
+  left                : 290px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .statusbarcopy .bounds2 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 17px;
+  top                 : 4px;
+  width               : 16px;
+  left                : 271px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .statusbarcopy .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 15px;
+  top                 : 5px;
+  width               : 18px;
+  left                : 270px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .menu {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 13px;
+  top                 : 47px;
+  width               : 19px;
+  left                : 20px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .menu .path {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 2px;
+  top                 : 11px;
+  width               : 19px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .menu .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 2px;
+  top                 : 5px;
+  width               : 19px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .menu .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 2px;
+  top                 : 0px;
+  width               : 19px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .placename {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 28px;
+  top                 : 43px;
+  width               : 114px;
+  left                : 131px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .placename .placename {
+  background-color    : rgba(255,255,255,0.0);
+  height              : auto;
+  top                 : 0px;
+  width               : 114px;
+  left                : 0px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
-  line-height         : 43.0px;
+  line-height         : 28.0px;
+}
+.home1exellenton .adddevicebutton {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 14px;
+  top                 : 44px;
+  width               : 14px;
+  left                : 344px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home1exellenton .adddevicebutton .shape {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 14px;
+  top                 : 0px;
+  width               : 14px;
+  left                : 0px;
+  position            : relative;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -814,80 +886,40 @@ div {
 }
 @-webkit-keyframes anima-reveal {
   0%
-
-
-
   {
         opacity: 0;
-      }
-
-
-
-
-  100%
-
-
-
+      }   
+  100%  
   {
         opacity: 1;
       }
 }
 @-moz-keyframes anima-reveal {
   0%
-
-
-
   {
         opacity: 0;
-      }
-
-
-
-
-  100%
-
-
-
+      }  
+  100% 
   {
         opacity: 1;
       }
 }
 @-o-keyframes anima-reveal {
   0%
-
-
-
   {
         opacity: 0;
-      }
-
-
-
-
-  100%
-
-
-
+      } 
+  100%  
   {
         opacity: 1;
       }
 }
 @keyframes anima-reveal {
-  0%
-
-
-
+  0% 
   {
         opacity: 0;
-      }
-
-
-
-
+      }  
   100%
-s
-
-
   {
         opacity: 1;
       }
